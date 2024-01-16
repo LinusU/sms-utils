@@ -9,9 +9,7 @@
   },
   "devDependencies": {
     "jsfuzz": "^1.0.15",
-    "standard": "^17.1.0"
-  },
-  "dependencies": {
+    "standard": "^17.1.0",
     "ts-readme-generator": "^0.7.3"
   }
 }
