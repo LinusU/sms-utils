@@ -1,0 +1,17 @@
+{
+  "name": "sms-utils",
+  "version": "0.0.0",
+  "repository": "LinusU/sms-utils",
+  "license": "MIT",
+  "scripts": {
+    "fuzz": "jsfuzz fuzz.js",
+    "test": "node test && standard && ts-readme-generator --check"
+  },
+  "devDependencies": {
+    "jsfuzz": "^1.0.15",
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "ts-readme-generator": "^0.7.3"
+  }
+}
